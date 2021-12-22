@@ -27,8 +27,8 @@ The json file which the information read from that called data.json that has som
 **The structure of json file is like this:**
 1. data.json
     - labels
-     -x:Horizontal axis content
-     -y:Vertical axis content
+      -x:Horizontal axis content
+      -y:Vertical axis content
     - activeColor
        
     - items
