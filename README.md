@@ -20,9 +20,10 @@ Then just add these HTML tags to your HTML file:
     </div>
 </div>
 ```
-**Notice that you can ADD new classes to the elements but you can't change the main classes**
+**Notice that you can ADD new classes to the elements but you can't change the main classes.**
+
 ***You may see an error or white screen while opening the files normally in the browser. Use this syntax for this purpose:***
 ```
 python -m http.server
 ```
-**You can also use apps like** ***Wampserver*** **or** ***Xampp*** **to run mentioned file**
+**You can also use apps like** ***Wampserver*** **or** ***Xampp*** **to run mentioned file.**
