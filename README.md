@@ -58,7 +58,8 @@ python -m http.server
 ```
 **You can also use apps like** ***Wampserver*** **or** ***Xampp*** **to run mentioned file.**
 ## Author
-**1.Atena Dadkhah**
-    - [My GitHub Link](https://github.com/Atenad86/)
+**Atena Dadkhah**
+
+- [My GitHub Link](https://github.com/Atenad86/)
 
  
