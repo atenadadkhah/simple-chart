@@ -74,7 +74,7 @@ xmlhttp.onreadystatechange = function() {
 
             }
             else {
-                document.querySelector("style").innerHTML = `
+                document.querySelector("style").innerHTML += `
                     .container {
                         display: flex;
                         align-items: center;
