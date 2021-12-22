@@ -27,7 +27,12 @@ The json file which the information read from that called data.json that has som
 **The structure of json file is like this:**
 1. data.json
     - labels
+        -x:Horizontal axis content
+        -y:Vertical axis content
     - activeColor
+        {
+           -title
+        }
     - items
 ## demo
 I put a folder called **demo** in the files you download to specify how to use the files there.
