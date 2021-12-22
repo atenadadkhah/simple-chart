@@ -8,7 +8,7 @@ just download and use.
 Doanload the files and put chart.js or chart.min.js and data.json(which will be your personal API) in your project folder.
 Add this following script to your file:
 ```html
-<script type="text/javascript" src="simple-chart-main/chart.min.js"></script>
+<script type="text/javascript" src="chart.min.js"></script>
 ```
 Then just add these HTML tags to your HTML file:
 ```html
