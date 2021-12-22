@@ -25,4 +25,4 @@ Then just add these HTML tags to your HTML file:
 ```
 python -m http.server
 ```
-**You can also use apps like ***Wampserver*** **or ***Xampp*** **to run mentioned file**
+**You can also use apps like** ***Wampserver*** **or** ***Xampp*** **to run mentioned file**
