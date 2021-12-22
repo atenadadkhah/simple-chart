@@ -27,6 +27,7 @@ Then just add these HTML tags to your HTML file:
 **Notice that you can ADD new classes to the elements but you can't change the main classes.**
 ### JSON file
 The json file which the information read from that called data.json that has some contents for example.
+
 **The structure of json file is like this:**
 ```json
 {
