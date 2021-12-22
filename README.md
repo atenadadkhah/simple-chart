@@ -4,11 +4,11 @@ Simple chart written with JavaScript and you even don't need to add any css file
 ## How to use
 Doanload the files and put chart.js or chart.min.js and data.json(which will be your personal API) in your project folder.
 Add this following script to your file:
-```
+```html
 <script type="text/javascript" src="chart.min.js"></script>
 ```
 Then just add these HTML tags to your HTML file:
-```
+```html
 <div class="container">
     <div class="chart">
         <div class="label-x"></div>
