@@ -22,6 +22,13 @@ Then just add these HTML tags to your HTML file:
 </div>
 ```
 **Notice that you can ADD new classes to the elements but you can't change the main classes.**
+### JSON file
+The json file which the information read from that called data.json that has some contents for example.
+**The structure of json file is like this:**
+1. data.json
+    - labels
+    - activeColor
+    - items
 ## demo
 I put a folder called **demo** in the files you download to specify how to use the files there.
 ## Avoid error
