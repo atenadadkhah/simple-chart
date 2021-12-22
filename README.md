@@ -49,6 +49,10 @@ The json file which the information read from that called data.json that has som
 **Note that you can just change the content of API not the names of each list. You can't change the names like items, activeColor, ..etc**
 ## demo
 I put a folder called **demo** in the files you download to specify how to use the files there.
+
+Your HTML file should looks like this:
+![chart](https://user-images.githubusercontent.com/91287064/147079351-338cd4e5-ef5d-43c5-a503-7190268e4010.png)
+
 ## Avoid error
 ***You may see an error or white screen while opening the files normally in the browser.***
 
