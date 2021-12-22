@@ -42,7 +42,7 @@ The json file which the information read from that called data.json that has som
   ]
 }
 ```
-**Note that you can just change the content of API not the names of each list like items,activeColor ..etc**
+**Note that you can just change the content of API not the names of each list. You can't change the names like items, activeColor, ..etc**
 ## demo
 I put a folder called **demo** in the files you download to specify how to use the files there.
 ## Avoid error
