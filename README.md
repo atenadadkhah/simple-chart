@@ -25,12 +25,23 @@ Then just add these HTML tags to your HTML file:
 ### JSON file
 The json file which the information read from that called data.json that has some contents for example.
 **The structure of json file is like this:**
-1.  data.json
-     - labels
-       - x: Horizontal axis content
-       - y: Vertical axis content
-      
-
+```
+{
+  "labels": {
+    "x": "Horizontal axis content",
+    "y": "Vertical axis content"
+  },
+  "activeColor": "Active column color",
+  "items": [
+    {
+      "title": "Title of each content",
+      "description": "...",
+      "color": "Color of the column",
+      "value": value of the column (type=number)
+    }
+  ]
+}
+```
 ## demo
 I put a folder called **demo** in the files you download to specify how to use the files there.
 ## Avoid error
