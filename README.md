@@ -24,7 +24,7 @@ Then just add these HTML tags to your HTML file:
 **Notice that you can ADD new classes to the elements but you can't change the main classes.**
 ## demo
 I put a folder called **demo** in the files you download to specify how to use the files there.
-
+## Avoid error
 ***You may see an error or white screen while opening the files normally in the browser.***
 
 ***Use this syntax for this purpose:***
