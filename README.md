@@ -37,7 +37,7 @@ The json file which the information read from that called data.json that has som
       "title": "Title of each content",
       "description": "...",
       "color": "Color of the column",
-      "value": value of the column (type=number)
+      "value": "A number (with intiger type NOT string)"
     }
   ]
 }
