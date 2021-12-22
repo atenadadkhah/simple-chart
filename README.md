@@ -23,7 +23,9 @@ Then just add these HTML tags to your HTML file:
 ```
 **Notice that you can ADD new classes to the elements but you can't change the main classes.**
 
-***You may see an error or white screen while opening the files normally in the browser. Use this syntax for this purpose:***
+***You may see an error or white screen while opening the files normally in the browser.***
+
+***Use this syntax for this purpose:***
 ```
 python -m http.server
 ```
